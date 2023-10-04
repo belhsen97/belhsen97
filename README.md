@@ -1,13 +1,16 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,dotnet,jquery,kafka,mongodb,php,mysql,postman,py,redis,tensorflow,ts&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,react,angular&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord,eclipse,idea,ai,pr,visualstudio,vscode,github,gitlab)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,angular,java,graphql,c,cs,dotnet,kafka,mongodb,php,mysql,redis
+,postman,py,tensorflow,
+docker,jenkins,
+linux,powershell,
+gradle,maven,
+github,gitlab,
+discord,eclipse,idea,ai,pr,visualstudio,vscode,
+arduino,raspberrypi,
+linkedin,
+ts&theme=light)](https://skillicons.dev)
+
+ 
 <!--
 **belhsen97/belhsen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
