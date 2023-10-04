@@ -1,6 +1,13 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,dotnet,jquery,kafka,mongodb,php,mysql,postman,py,redis,tensorflow,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,angular&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,eclipse,idea,ai,pr,visualstudio,vscode,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,powershell)](https://skillicons.dev)
 <!--
 **belhsen97/belhsen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
