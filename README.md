@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,dotnet,jquery,kafka,mongodb,php,mysql,postman,py,redis,tensorflow,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,dotnet,jquery,kafka,mongodb,php,mysql,postman,py,redis,tensorflow,ts&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,react,angular&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,jenkins)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
