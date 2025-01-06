@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Belhsen!</a></h1>
-<h3 align="center">Software architecture engineering from Tunisia</h3>
+<h3 align="center">Software Architecture Engineering from Tunisia</h3>
 <!--<img src="photo/flag-tunisia.png" alt="Trulli" width="500" height="333">-->
 
 
