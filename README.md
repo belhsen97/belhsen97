@@ -4,7 +4,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,angular,reactivex,java,graphql,c,cs,dotnet,kafka,mongodb,php,mysql,redis,postman,py,tensorflow,docker,jenkins,linux,powershell,gradle,maven,github,gitlab,discord,eclipse,idea,ai,pr,visualstudio,vscode,arduino,raspberrypi,linkedin,ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,dotnet,cs,angular,reactivex,redux,html,css,bootstrap,js,jquery,ts,react,flask,django,py,opencv,nodejs,php,c,mysql,sqlite,mongodb,redis,graphql,kafka,maven,npm,powershell,github,gitlab,docker,jenkins,prometheus,visualstudio,vscode,eclipse,idea,postman,ai,pr,discord,latex,gmail,linux,debian,ubuntu,windows,raspberrypi,arduino,linkedin&theme=light)](https://skillicons.dev)
 
 
 
